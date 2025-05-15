@@ -2,7 +2,10 @@
 𝐇𝐨𝐰 𝐈 𝐒𝐭𝐫𝐮𝐜𝐭𝐮𝐫𝐞 𝐌𝐲 𝐂𝐥𝐞𝐚𝐧 𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭𝐮𝐫𝐞 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬 (𝐅𝐨𝐥𝐝𝐞𝐫 𝐛𝐲 𝐅𝐨𝐥𝐝𝐞𝐫)
 Clean Architecture isn’t just about principles, it’s about clarity. A well-structured folder setup keeps your code scalable, testable, and easy to navigate.
 
+![How I Structure My Clean Architecture Projects](https://github.com/user-attachments/assets/1cb17dc0-f874-431d-823f-8fde5b901c17)
+
 This project follows a clean architecture, dividing responsibilities into well-defined layers. The structure of the project is detailed below.
+
 ## 1.- Domain Layer
 This is the core of the system, 100% pure C#.
 
